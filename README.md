@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryan_gupta_ag" target="blank"><img src="https://img.shields.io/twitter/follow/aryan_gupta_ag?logo=twitter&style=for-the-badge" alt="aryan_gupta_ag" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img src="https://img.shields.io/twitter/follow/aryan_gupta_ag?logo=twitter&style=for-the-badge" alt="aryan_gupta_ag" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aryan_gupta_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_gupta_ag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryangupta0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangupta0001" height="30" width="40" /></a>
-<a href="https://instagram.com/iron_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iron_gupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryangupta0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryangupta0001" height="30" width="40" /></a>
+<a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan_gupta_ag" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryangupta0001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangupta0001" height="30" width="40" /></a>
+<a href="https://instagram.com/iron_gupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iron_gupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aryangupta0001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryangupta0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
