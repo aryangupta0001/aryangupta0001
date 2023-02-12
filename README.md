@@ -28,6 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta0001&show_icons=true&locale=en&layout=compact" alt="aryangupta0001" /></p>
 
+[![An image of @aryan0001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan0001)](https://holopin.io/@aryan0001)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&locale=en" alt="aryangupta0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta0001&" alt="aryangupta0001" /></p>
