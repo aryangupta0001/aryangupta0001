@@ -14,7 +14,7 @@
 
 ![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
 <a href="https://twitter.com/Aryan_Gupta_AG"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
-<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/connect%20with%20me%20on-Linkedin-blue">
+<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU">
 
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
