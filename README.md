@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm ARYAN GUPTA</h1>
 <h3 align="center">Computer Science student, BCA Graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryangupta0001&label=Profile%20views&color=0e75b6&style=flat" alt="aryangupta0001" /> </p>
+- <b> I'm Aryan (he/him),</b> BCA Graduate and a IT Passionate.
+
+- Exploring <b>fullstack development, python, c++</b> along with some <b> Personal Finance</b>. 
+
+- Continuously learning and engaging with the tech community.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img src="https://img.shields.io/twitter/follow/aryan_gupta_ag?logo=twitter&style=for-the-badge" alt="aryan_gupta_ag" /></a> </p>
+![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
+<a href="https://twitter.com/Aryan_Gupta_AG"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/connect%20with%20me%20on-Linkedin-blue">
+
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
 
