@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css,github,git,netlify,vscode,xd&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css,github,git,netlify,vscode,&perline=8)](https://skillicons.dev)
 
 
 ![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
