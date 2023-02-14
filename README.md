@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
+<a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 <a href="https://linkedin.com/in/aryangupta0001" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://instagram.com/iron_gupta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="iron_gupta" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.hackerrank.com/aryangupta0001" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
