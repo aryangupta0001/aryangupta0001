@@ -31,6 +31,9 @@
 ## 📈 Graph
   [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aryangupta0001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<h3 align="left">Holopin Badges:</h3>
+
 [![An image of @aryan0001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan0001)](https://holopin.io/@aryan0001)
 
 
