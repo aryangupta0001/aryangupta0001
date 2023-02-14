@@ -7,14 +7,26 @@
 
 - Continuously learning and engaging with the tech community.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css,github,git,netlify,vscode,&perline=8)](https://skillicons.dev)
+<br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryangupta0001&theme=flat&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,linkedin,mysql,bootstrap,django,github,html,netlify,sqlite,vscode" />
+  </a>
+</p>
+
+<br>
 
 ![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
 <a href="https://twitter.com/Aryan_Gupta_AG"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
 <a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
+  
+  <br>
 
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
