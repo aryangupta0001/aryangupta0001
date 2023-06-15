@@ -3,7 +3,7 @@
 
 - <b> I'm Aryan (he/him),</b> BCA Graduate and a IT Passionate.
 
-- Exploring <b>fullstack development, python, c++</b> along with some <b> Personal Finance</b>. 
+- Exploring <b>MERN Stack Development, python, c++</b> along with some <b> Personal Finance</b>. 
 
 - Continuously learning and engaging with the tech community.
 
