@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryangupta0001](https://github.com/aryangupta0001)
+- 👨‍💻 All of my projects are available at **[https://github.com/aryangupta0001](https://github.com/aryangupta0001)**
 
 - 💬 Ask me about **C++, C, JAVA, Python**
 
