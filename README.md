@@ -53,7 +53,7 @@
 <br><br><br><br><br><br><br>
 
 ## 📈 Graph
-  [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aryangupta0001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aryangupta0001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-
 
 
 <h3 align="left">Holopin Badges:</h3>
@@ -63,3 +63,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&locale=en" alt="aryangupta0001" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta0001&" alt="aryangupta0001" /></p>
+
+  https://api.githubtrends.io/user/svg/aryangupta0001/langs)](https://githubtrends.io)
