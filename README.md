@@ -64,4 +64,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&locale=en" alt="aryangupta0001" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta0001&" alt="aryangupta0001" /></p>
 
-  https://api.githubtrends.io/user/svg/aryangupta0001/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
