@@ -16,7 +16,7 @@
 <br>
 
 ![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
-<a href="https://twitter.com/Aryan_Gupta_AG"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://twitter.com/aryangupta_0001"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
 <a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
   
   <br>
