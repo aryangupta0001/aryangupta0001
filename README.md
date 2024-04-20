@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARYAN GUPTA</h1>
 <h3 align="center">Computer Science student, BCA Graduate</h3>
 
-- <b> I'm Aryan (he/him),</b> BCA Graduate and a IT Passionate.
+- <b> I'm Aryan (he/him),</b> MCA Student and a IT Passionate.
 
 - Exploring <b>MERN Stack Development, python, c++</b> along with some <b> Personal Finance</b>. 
 
