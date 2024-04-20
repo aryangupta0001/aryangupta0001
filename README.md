@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARYAN GUPTA</h1>
-<h3 align="center">Computer Science student, BCA Graduate</h3>
+<h3 align="center">Computer Science student, BCA Graduate </h3>
 
 - <b> I'm Aryan (he/him),</b> MCA Student and a IT Passionate.
 
