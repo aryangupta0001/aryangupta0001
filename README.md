@@ -22,7 +22,7 @@
   <br>
 
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript, Django**
+- 🌱 I’m currently learning **HTML,CSS, JavaScript, React**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/aryangupta0001](https://github.com/aryangupta0001)**
 
