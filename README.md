@@ -7,17 +7,6 @@
 
 - Continuously learning and engaging with the tech community.
 
-
-
-<br>
-
-![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
-<a href="https://twitter.com/aryangupta_0001"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
-<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
-  
-  <br>
-
-
 - 🌱 I’m currently learning **HTML,CSS, JavaScript, React**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/aryangupta0001](https://github.com/aryangupta0001)**
@@ -25,6 +14,13 @@
 - 💬 Ask me about **C++, C, JAVA, Python**
 
 - 📫 How to reach me **aryanguptabareilly067@gmail.com**
+<br>
+
+![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
+<a href="https://twitter.com/aryangupta_0001"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
+  
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 
