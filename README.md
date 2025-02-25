@@ -7,11 +7,7 @@
 
 - Continuously learning and engaging with the tech community.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryangupta0001" alt="aryangupta0001" /></a> </p> -->
 
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aryangupta0001&theme=flat&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
