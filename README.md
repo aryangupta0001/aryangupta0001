@@ -1,59 +1,82 @@
-<h1 align="center">Hi 👋, I'm ARYAN GUPTA</h1>
-<h3 align="center">Computer Science student, MCA Student </h3>
+<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
+<h3 align="center">🎓 Computer Science & MCA Student | 💻 Tech Enthusiast</h3>
 
-- <b> I'm Aryan (he/him),</b> MCA Student and a IT Passionate.
+- 👋 I'm **Aryan (he/him)** — an MCA student and IT enthusiast.
+- 🚀 Exploring **MERN Stack Development, Python, and C++**, along with **Personal Finance**.
+- 🌱 Currently learning **HTML, CSS, JavaScript, and React**.
+- 💡 Continuously learning and engaging with the tech community.
+- 👨‍💻 All of my projects are available at **[github.com/aryangupta0001](https://github.com/aryangupta0001)**.
+- 💬 Ask me about **C++, C, Java, and Python**.
+- 📫 Reach me at **aryanguptabareilly067@gmail.com**
 
-- Exploring <b>MERN Stack Development, python, c++</b> along with some <b> Personal Finance</b>. 
+---
 
-- Continuously learning and engaging with the tech community.
+![Profile Views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
 
-- 🌱 I’m currently learning **HTML,CSS, JavaScript, React**
+<a href="https://twitter.com/aryangupta_0001">
+  <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-blue?style=flat&logo=twitter" />
+</a>
+<a href="https://www.linkedin.com/in/aryangupta0001/">
+  <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue" />
+</a>
 
-- 👨‍💻 All of my projects are available at **[https://github.com/aryangupta0001](https://github.com/aryangupta0001)**
+---
 
-- 💬 Ask me about **C++, C, JAVA, Python**
-
-- 📫 How to reach me **aryanguptabareilly067@gmail.com**
-<br>
-
-![aryangupta0001's profile views](https://komarev.com/ghpvc/?username=aryangupta0001&color=ff0000)
-<a href="https://twitter.com/aryangupta_0001"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
-<a href="https://www.linkedin.com/in/aryangupta0001/"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-Linkedin-blue">
-  
-  <br>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/aryan_gupta_ag" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-<a href="https://linkedin.com/in/aryangupta0001" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgnPuQ1ZxrQdd1u9oddAbs7w9Icycdw-BrSS1XJTT9eBUHNlgCTHob3SPN6xUW_V5KgNI&usqp=CAU" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://instagram.com/iron_gupta" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="iron_gupta" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.hackerrank.com/aryangupta0001" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" alt="aryangupta0001" height="40" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://twitter.com/aryan_gupta_ag" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" />
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aryangupta0001" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/iron_gupta" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" />
+</a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/aryangupta0001" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-  <p align="center">
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,mysql,py,django,sqlite,java,vscode,github,linkedin,bootstrap,netlify,html,css,js,pug,mongodb,express,react,nodejs" />
-    
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,django,mysql,sqlite,html,css,js,react,nodejs,express,mongodb,bootstrap,vscode,github,netlify" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta0001&show_icons=true&locale=en&layout=compact" alt="aryangupta0001" /></p>
+---
 
-<br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta0001&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</p>
 
-## 📈 Graph
-  [![Aryan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aryangupta0001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-
+---
 
+## 📈 GitHub Activity Graph
+[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryangupta0001&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Holopin Badges:</h3>
+---
 
-[![An image of @aryan0001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryan0001)](https://holopin.io/@aryan0001)
+<h3 align="left">🏅 Holopin Badges:</h3>
 
+[![Holopin Badges](https://holopin.me/aryan0001)](https://holopin.io/@aryan0001)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&locale=en" alt="aryangupta0001" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta0001&" alt="aryangupta0001" /></p>
+---
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&locale=en&theme=react" alt="Aryan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryangupta0001&theme=react" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/aryangupta0001/langs" alt="GitHub Trends" />
+  </a>
+</p>
