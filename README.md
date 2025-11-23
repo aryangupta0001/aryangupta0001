@@ -41,47 +41,81 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats (With Stable Fallback Mirrors)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryangupta0001&show_icons=true&theme=react" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=aryangupta0001&theme=react" height="160" />
+
+<!-- Primary -->
+<img src="https://github-readme-stats.vercel.app/api?username=aryangupta0001&show_icons=true&theme=react" height="160"/>
+
+<!-- Mirror 1 -->
+<img src="https://github-readme-stats.zcy.dev/api?username=aryangupta0001&show_icons=true&theme=react" height="160"/>
+
+<!-- Mirror 2 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryangupta0001&show_icons=true&theme=react" height="160"/>
+
 </p>
 
 ---
 
-## 📈 Top Languages
+# 📈 Top Languages (With Stable Fallback Mirrors)
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryangupta0001&layout=compact&theme=react" />
+
+<!-- Primary -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryangupta0001&layout=compact&theme=react" height="200"/>
+
+<!-- Mirror 1 -->
+<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=aryangupta0001&layout=compact&theme=react" height="200"/>
+
+<!-- Mirror 2 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryangupta0001&layout=compact&theme=react" height="200"/>
+
 </p>
 
 ---
 
-## 🔥 Activity Graph
+# 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryangupta0001&theme=react" />
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryangupta0001&theme=react-dark" />
 </p>
 
 ---
 
-## 🏅 Holopin Badges
+# 🏅 Holopin Badges
 [![Holopin Badges](https://holopin.me/aryan0001)](https://holopin.io/@aryan0001)
 
 ---
 
-## 📊 GitHub Trends
+# 📈 GitHub Trends (With Multi-Fallback System)
+
 <p align="center">
-  <img src="https://githubtrends.io/user/aryangupta0001/langs.svg" />
+
+<!-- Primary (SVG) -->
+<img src="https://githubtrends.io/user/aryangupta0001/langs.svg" height="300"/>
+
+<!-- Fallback: PNG -->
+<img src="https://githubtrends.io/user/aryangupta0001/langs.png" height="300"/>
+
+<!-- Fallback: Dark Mode -->
+<img src="https://githubtrends.io/user/aryangupta0001/langs.svg?theme=dark" height="300"/>
+
 </p>
 
 ---
 
-## 🎯 Fun Fact  
+# 🎯 Fun Fact  
 💬 **"The best way to learn code is to build something amazing with it."**
 
 ---
 
-## ⭐ Show Some Love
 <p align="center">
-  <img src="https://img.shields.io/badge/You%20found%20my%20README%20awesome%20❤️-Support-blue" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20❤️-Support-blue" />
 </p>
